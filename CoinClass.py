@@ -1,5 +1,6 @@
 import random
 
+
 # The Coin class simulates a coin that can
 # be flipped.
 
